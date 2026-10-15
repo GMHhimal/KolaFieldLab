@@ -1,0 +1,1100 @@
+{
+  "version": 1,
+  "diseases": [
+    {
+      "id": "tomato.early_blight",
+      "crop": "tomato",
+      "type": "fungal",
+      "pathogen": "Alternaria solani",
+      "names": {
+        "en": "Early blight",
+        "si": "පෙර අංගමාරය",
+        "ta": "முன்கருகல் நோய்"
+      },
+      "summary": "A common fungal disease that starts on older, lower leaves and moves upward, reducing yield and exposing fruit to sunscald.",
+      "symptoms": [
+        "Brown spots with dark concentric rings (a 'target' or bull's-eye pattern).",
+        "Yellow halo around the spots; affected lower leaves turn yellow and drop.",
+        "Dark, sunken lesions on stems near the soil line and on the fruit stem end."
+      ],
+      "favourableConditions": "Warm (24–29 °C), humid weather with long periods of leaf wetness from dew, rain or overhead irrigation.",
+      "organicTreatment": [
+        "Remove and destroy infected lower leaves; do not compost them.",
+        "Mulch around plants to stop soil splashing onto leaves.",
+        "Spray a neem-oil or Bacillus subtilis based bio-fungicide at the first signs."
+      ],
+      "chemicalTreatment": [
+        "A protectant fungicide recommended by the DOA (e.g. mancozeb or chlorothalonil based), following label rates and pre-harvest intervals."
+      ],
+      "prevention": [
+        "Rotate with non-solanaceous crops for at least 2 seasons.",
+        "Stake and prune plants to improve air flow.",
+        "Use certified disease-free seed and resistant varieties where available."
+      ],
+      "modelLabels": [
+        "Tomato___Early_blight"
+      ],
+      "contagiousness": 2,
+      "riskProfile": {
+        "minTemp": 18,
+        "maxTemp": 30,
+        "minHumidity": 90,
+        "maxHumidity": null,
+        "hoursForHighRisk": 12
+      }
+    },
+    {
+      "id": "tomato.late_blight",
+      "crop": "tomato",
+      "type": "oomycete",
+      "pathogen": "Phytophthora infestans",
+      "names": {
+        "en": "Late blight",
+        "si": "පසු අංගමාරය",
+        "ta": "பின்கருகல் நோய்"
+      },
+      "summary": "A fast, destructive water-mould disease that can wipe out a tomato or potato field within days in cool, wet weather.",
+      "symptoms": [
+        "Large, pale-green to dark-brown water-soaked patches on leaves.",
+        "White fuzzy growth on the underside of leaves in humid mornings.",
+        "Firm, greasy brown blotches on fruit; stems turn black."
+      ],
+      "favourableConditions": "Cool to mild temperatures (10–25 °C) with very high humidity (above 90 %) or rain for 10 hours or more.",
+      "organicTreatment": [
+        "Remove and bag infected plants immediately to slow spread.",
+        "Avoid overhead watering; water early in the day.",
+        "Increase spacing and pruning to dry the canopy."
+      ],
+      "chemicalTreatment": [
+        "A systemic + protectant fungicide recommended by the DOA for late blight, applied preventively when weather is favourable. Follow the label strictly."
+      ],
+      "prevention": [
+        "Plant in well-drained beds with good air movement.",
+        "Never leave volunteer potato or tomato plants in the field.",
+        "Check the KolaCare risk card daily during rainy spells."
+      ],
+      "modelLabels": [
+        "Tomato___Late_blight"
+      ],
+      "contagiousness": 3,
+      "riskProfile": {
+        "minTemp": 10,
+        "maxTemp": 25,
+        "minHumidity": 90,
+        "maxHumidity": null,
+        "hoursForHighRisk": 10
+      }
+    },
+    {
+      "id": "tomato.leaf_mold",
+      "crop": "tomato",
+      "type": "fungal",
+      "pathogen": "Passalora fulva",
+      "names": {
+        "en": "Leaf mold",
+        "si": "පත්‍ර පුස් රෝගය",
+        "ta": "இலைப் பூஞ்சணம்"
+      },
+      "summary": "A fungal disease of humid, poorly ventilated crops — common in polytunnels and dense plantings.",
+      "symptoms": [
+        "Pale green to yellow patches on the upper leaf surface.",
+        "Olive-green to brown velvety mould directly beneath on the underside.",
+        "Leaves curl, wither and drop; flowers may fail."
+      ],
+      "favourableConditions": "Relative humidity above 85 % with temperatures of 20–25 °C, especially in protected cultivation.",
+      "organicTreatment": [
+        "Improve ventilation; open tunnel sides during the day.",
+        "Remove the lowest leaves and infected foliage.",
+        "Avoid wetting leaves when irrigating."
+      ],
+      "chemicalTreatment": [
+        "A protectant fungicide recommended by the DOA (e.g. mancozeb or chlorothalonil based), following label rates and pre-harvest intervals."
+      ],
+      "prevention": [
+        "Use resistant varieties.",
+        "Keep plant spacing wide.",
+        "Disinfect tunnel structures between seasons."
+      ],
+      "modelLabels": [
+        "Tomato___Leaf_Mold"
+      ],
+      "contagiousness": 2,
+      "riskProfile": {
+        "minTemp": 18,
+        "maxTemp": 27,
+        "minHumidity": 85,
+        "maxHumidity": null,
+        "hoursForHighRisk": 12
+      }
+    },
+    {
+      "id": "tomato.septoria_leaf_spot",
+      "crop": "tomato",
+      "type": "fungal",
+      "pathogen": "Septoria lycopersici",
+      "names": {
+        "en": "Septoria leaf spot",
+        "si": "සෙප්ටෝරියා පත්‍ර පුල්ලි",
+        "ta": "செப்டோரியா இலைப்புள்ளி"
+      },
+      "summary": "A leaf-spotting fungus that defoliates plants from the bottom up during wet weather.",
+      "symptoms": [
+        "Many small circular spots with dark borders and grey-white centres.",
+        "Tiny black dots (fruiting bodies) visible in the spot centres.",
+        "Heavily spotted leaves yellow and fall off."
+      ],
+      "favourableConditions": "Warm, wet weather (16–28 °C) with frequent rain splash.",
+      "organicTreatment": [
+        "Remove infected leaves and crop debris.",
+        "Mulch the soil surface.",
+        "Apply a Bacillus-based bio-fungicide early."
+      ],
+      "chemicalTreatment": [
+        "A protectant fungicide recommended by the DOA (e.g. mancozeb or chlorothalonil based), following label rates and pre-harvest intervals."
+      ],
+      "prevention": [
+        "Rotate crops for 2–3 seasons.",
+        "Control solanaceous weeds.",
+        "Avoid working among wet plants."
+      ],
+      "modelLabels": [
+        "Tomato___Septoria_leaf_spot"
+      ],
+      "contagiousness": 2,
+      "riskProfile": {
+        "minTemp": 16,
+        "maxTemp": 28,
+        "minHumidity": 90,
+        "maxHumidity": null,
+        "hoursForHighRisk": 10
+      }
+    },
+    {
+      "id": "tomato.bacterial_spot",
+      "crop": "tomato",
+      "type": "bacterial",
+      "pathogen": "Xanthomonas spp.",
+      "names": {
+        "en": "Bacterial spot",
+        "si": "බැක්ටීරියා පුල්ලි රෝගය",
+        "ta": "பாக்டீரியா புள்ளி நோய்"
+      },
+      "summary": "A bacterial disease spread by rain splash, tools and seed; it marks fruit and reduces market value.",
+      "symptoms": [
+        "Small, dark, greasy-looking spots on leaves, often with a yellow halo.",
+        "Spots merge and leaves look scorched or ragged.",
+        "Raised scabby spots on green fruit."
+      ],
+      "favourableConditions": "Warm (24–32 °C), rainy and windy weather.",
+      "organicTreatment": [
+        "Remove and destroy infected plants and debris.",
+        "Disinfect pruning tools between plants.",
+        "Avoid handling plants when wet."
+      ],
+      "chemicalTreatment": [
+        "Copper-based fungicide/bactericide, used strictly as per the label and DOA recommendations."
+      ],
+      "prevention": [
+        "Use certified, pathogen-free seed and seedlings.",
+        "Rotate crops.",
+        "Use drip irrigation instead of sprinklers."
+      ],
+      "modelLabels": [
+        "Tomato___Bacterial_spot"
+      ],
+      "contagiousness": 3,
+      "riskProfile": {
+        "minTemp": 22,
+        "maxTemp": 32,
+        "minHumidity": 85,
+        "maxHumidity": null,
+        "hoursForHighRisk": 8
+      }
+    },
+    {
+      "id": "tomato.yellow_leaf_curl",
+      "crop": "tomato",
+      "type": "viral",
+      "pathogen": "Tomato yellow leaf curl virus (whitefly-transmitted)",
+      "names": {
+        "en": "Yellow leaf curl virus",
+        "si": "කහ පත්‍ර කොඩවීමේ වෛරසය",
+        "ta": "மஞ்சள் இலைச்சுருள் வைரஸ்"
+      },
+      "summary": "A whitefly-spread virus that stunts plants and can cause near-total yield loss if infection happens early.",
+      "symptoms": [
+        "Upward curling and cupping of young leaves.",
+        "Yellow leaf margins and small, crumpled leaves.",
+        "Stunted, bushy plants with flower drop."
+      ],
+      "favourableConditions": "Hot, dry periods when whitefly populations build up.",
+      "organicTreatment": [
+        "Uproot and destroy infected plants early.",
+        "Use yellow sticky traps to monitor whiteflies.",
+        "Grow seedlings under insect-proof net."
+      ],
+      "chemicalTreatment": [
+        "Whitefly control with an insecticide recommended by the DOA, rotating modes of action. The virus itself cannot be cured."
+      ],
+      "prevention": [
+        "Plant tolerant varieties.",
+        "Remove weed hosts around the field.",
+        "Avoid planting next to infected older crops."
+      ],
+      "modelLabels": [
+        "Tomato___Tomato_Yellow_Leaf_Curl_Virus"
+      ],
+      "contagiousness": 3,
+      "riskProfile": null
+    },
+    {
+      "id": "tomato.mosaic_virus",
+      "crop": "tomato",
+      "type": "viral",
+      "pathogen": "Tomato mosaic virus (ToMV)",
+      "names": {
+        "en": "Mosaic virus",
+        "si": "මොසෙයික් වෛරසය",
+        "ta": "தேமல் வைரஸ்"
+      },
+      "summary": "A very stable virus spread by hands, tools and seed; it reduces vigour and fruit quality.",
+      "symptoms": [
+        "Light- and dark-green mottled (mosaic) pattern on leaves.",
+        "Fern-like, distorted young leaves.",
+        "Uneven ripening and internal browning of fruit."
+      ],
+      "favourableConditions": "Spread mechanically at any temperature, especially during pruning and handling.",
+      "organicTreatment": [
+        "Remove infected plants.",
+        "Wash hands with soap and disinfect tools before handling plants.",
+        "Do not smoke or handle tobacco near plants."
+      ],
+      "chemicalTreatment": [
+        "No chemical cure. Focus on sanitation and resistant varieties."
+      ],
+      "prevention": [
+        "Use resistant varieties and certified seed.",
+        "Disinfect stakes, trays and tools.",
+        "Control weeds."
+      ],
+      "modelLabels": [
+        "Tomato___Tomato_mosaic_virus"
+      ],
+      "contagiousness": 2,
+      "riskProfile": null
+    },
+    {
+      "id": "tomato.spider_mites",
+      "crop": "tomato",
+      "type": "pest",
+      "pathogen": "Tetranychus urticae (two-spotted spider mite)",
+      "names": {
+        "en": "Spider mites",
+        "si": "මයිටාවන්",
+        "ta": "சிலந்திப் பேன்"
+      },
+      "summary": "Tiny sap-sucking mites that thrive in hot, dry conditions and can bronze an entire crop.",
+      "symptoms": [
+        "Fine yellow or white speckling (stippling) on leaves.",
+        "Fine webbing on the underside of leaves.",
+        "Leaves turn bronze, dry out and drop."
+      ],
+      "favourableConditions": "Hot (27 °C and above), dry weather with low humidity.",
+      "organicTreatment": [
+        "Spray the underside of leaves with a strong jet of water.",
+        "Apply neem-oil or insecticidal soap.",
+        "Conserve predatory mites by avoiding broad-spectrum sprays."
+      ],
+      "chemicalTreatment": [
+        "A miticide recommended by the DOA, rotating active ingredients to avoid resistance."
+      ],
+      "prevention": [
+        "Keep plants well watered to reduce stress.",
+        "Remove weeds that host mites.",
+        "Inspect the underside of leaves weekly in dry weather."
+      ],
+      "modelLabels": [
+        "Tomato___Spider_mites Two-spotted_spider_mite"
+      ],
+      "contagiousness": 2,
+      "riskProfile": {
+        "minTemp": 27,
+        "maxTemp": 40,
+        "minHumidity": null,
+        "maxHumidity": 60,
+        "hoursForHighRisk": 24
+      }
+    },
+    {
+      "id": "tomato.target_spot",
+      "crop": "tomato",
+      "type": "fungal",
+      "pathogen": "Corynespora cassiicola",
+      "names": {
+        "en": "Target spot",
+        "si": "ඉලක්ක පුල්ලි රෝගය",
+        "ta": "இலக்குப் புள்ளி நோய்"
+      },
+      "summary": "A fungal leaf, stem and fruit disease of warm, humid tropical regions.",
+      "symptoms": [
+        "Brown spots with light-brown centres and faint concentric rings.",
+        "Spots enlarge and merge, causing leaf collapse.",
+        "Small sunken spots on fruit."
+      ],
+      "favourableConditions": "Warm (20–32 °C) and humid weather with long dew periods.",
+      "organicTreatment": [
+        "Remove lower infected leaves.",
+        "Improve air flow by pruning and staking."
+      ],
+      "chemicalTreatment": [
+        "A protectant fungicide recommended by the DOA (e.g. mancozeb or chlorothalonil based), following label rates and pre-harvest intervals."
+      ],
+      "prevention": [
+        "Rotate crops.",
+        "Remove crop debris after harvest.",
+        "Avoid dense planting."
+      ],
+      "modelLabels": [
+        "Tomato___Target_Spot"
+      ],
+      "contagiousness": 2,
+      "riskProfile": {
+        "minTemp": 20,
+        "maxTemp": 32,
+        "minHumidity": 90,
+        "maxHumidity": null,
+        "hoursForHighRisk": 12
+      }
+    },
+    {
+      "id": "tomato.healthy",
+      "crop": "tomato",
+      "type": "healthy",
+      "pathogen": "—",
+      "names": {
+        "en": "Healthy tomato",
+        "si": "නිරෝගී තක්කාලි",
+        "ta": "ஆரோக்கியமான தக்காளி"
+      },
+      "summary": "No disease symptoms detected on this tomato leaf.",
+      "symptoms": [
+        "Uniform green colour.",
+        "No spots, mould, curling or webbing."
+      ],
+      "favourableConditions": "—",
+      "organicTreatment": [
+        "No treatment needed. Keep monitoring weekly, especially after rain."
+      ],
+      "chemicalTreatment": [],
+      "prevention": [
+        "Scan a few leaves every week to catch problems early.",
+        "Water at the base of the plant in the morning so leaves dry quickly.",
+        "Keep the field free of weeds and crop debris."
+      ],
+      "modelLabels": [
+        "Tomato___healthy"
+      ],
+      "contagiousness": 0,
+      "riskProfile": null
+    },
+    {
+      "id": "potato.early_blight",
+      "crop": "potato",
+      "type": "fungal",
+      "pathogen": "Alternaria solani",
+      "names": {
+        "en": "Early blight",
+        "si": "පෙර අංගමාරය",
+        "ta": "முன்கருகல் நோய்"
+      },
+      "summary": "Fungal leaf spot that weakens potato plants late in the season and reduces tuber size.",
+      "symptoms": [
+        "Dark brown spots with concentric rings on older leaves.",
+        "Yellowing around the spots.",
+        "Shallow dark lesions on tubers."
+      ],
+      "favourableConditions": "Alternating wet and dry periods with warm temperatures (18–30 °C).",
+      "organicTreatment": [
+        "Remove infected leaves.",
+        "Maintain good soil fertility — stressed plants are more susceptible.",
+        "Apply a bio-fungicide at first symptoms."
+      ],
+      "chemicalTreatment": [
+        "A protectant fungicide recommended by the DOA (e.g. mancozeb or chlorothalonil based), following label rates and pre-harvest intervals."
+      ],
+      "prevention": [
+        "Rotate with non-solanaceous crops.",
+        "Use certified seed tubers.",
+        "Destroy haulms after harvest."
+      ],
+      "modelLabels": [
+        "Potato___Early_blight"
+      ],
+      "contagiousness": 2,
+      "riskProfile": {
+        "minTemp": 18,
+        "maxTemp": 30,
+        "minHumidity": 90,
+        "maxHumidity": null,
+        "hoursForHighRisk": 12
+      }
+    },
+    {
+      "id": "potato.late_blight",
+      "crop": "potato",
+      "type": "oomycete",
+      "pathogen": "Phytophthora infestans",
+      "names": {
+        "en": "Late blight",
+        "si": "පසු අංගමාරය",
+        "ta": "பின்கருகல் நோய்"
+      },
+      "summary": "The disease behind the Irish potato famine — still the most serious potato disease in cool, wet up-country areas.",
+      "symptoms": [
+        "Water-soaked, rapidly expanding dark lesions on leaves.",
+        "White mould on the leaf underside in humid conditions.",
+        "Reddish-brown dry rot inside tubers."
+      ],
+      "favourableConditions": "Cool (10–25 °C) and very humid weather (above 90 % RH) for 10 hours or more.",
+      "organicTreatment": [
+        "Remove infected plants and volunteer potatoes.",
+        "Earth up tubers well so spores cannot reach them.",
+        "Avoid irrigating late in the day."
+      ],
+      "chemicalTreatment": [
+        "A late-blight fungicide programme recommended by the DOA, started preventively when risk is high."
+      ],
+      "prevention": [
+        "Plant certified seed.",
+        "Choose well-drained fields.",
+        "Follow the KolaCare risk card during the Maha season."
+      ],
+      "modelLabels": [
+        "Potato___Late_blight"
+      ],
+      "contagiousness": 3,
+      "riskProfile": {
+        "minTemp": 10,
+        "maxTemp": 25,
+        "minHumidity": 90,
+        "maxHumidity": null,
+        "hoursForHighRisk": 10
+      }
+    },
+    {
+      "id": "potato.healthy",
+      "crop": "potato",
+      "type": "healthy",
+      "pathogen": "—",
+      "names": {
+        "en": "Healthy potato",
+        "si": "නිරෝගී අර්තාපල්",
+        "ta": "ஆரோக்கியமான உருளைக்கிழங்கு"
+      },
+      "summary": "No disease symptoms detected on this potato leaf.",
+      "symptoms": [
+        "Uniform green colour.",
+        "No spots, lesions or mould."
+      ],
+      "favourableConditions": "—",
+      "organicTreatment": [
+        "No treatment needed. Keep monitoring weekly, especially after rain."
+      ],
+      "chemicalTreatment": [],
+      "prevention": [
+        "Scan a few leaves every week to catch problems early.",
+        "Water at the base of the plant in the morning so leaves dry quickly.",
+        "Keep the field free of weeds and crop debris."
+      ],
+      "modelLabels": [
+        "Potato___healthy"
+      ],
+      "contagiousness": 0,
+      "riskProfile": null
+    },
+    {
+      "id": "chilli.bacterial_spot",
+      "crop": "chilli",
+      "type": "bacterial",
+      "pathogen": "Xanthomonas spp.",
+      "names": {
+        "en": "Bacterial spot",
+        "si": "බැක්ටීරියා පුල්ලි රෝගය",
+        "ta": "பாக்டீரியா புள்ளி நோய்"
+      },
+      "summary": "Bacterial leaf and fruit spot of chilli and capsicum, spread by rain splash and infected seed.",
+      "symptoms": [
+        "Small water-soaked spots that turn brown with a yellow halo.",
+        "Leaves yellow and drop, exposing fruit.",
+        "Raised, scabby spots on fruit."
+      ],
+      "favourableConditions": "Warm (24–32 °C), wet and windy weather.",
+      "organicTreatment": [
+        "Remove infected leaves and fruit.",
+        "Disinfect tools.",
+        "Avoid overhead irrigation."
+      ],
+      "chemicalTreatment": [
+        "Copper-based fungicide/bactericide, used strictly as per the label and DOA recommendations."
+      ],
+      "prevention": [
+        "Use clean seed and healthy seedlings.",
+        "Rotate crops for 2 seasons.",
+        "Keep a wide spacing."
+      ],
+      "modelLabels": [
+        "Pepper,_bell___Bacterial_spot"
+      ],
+      "contagiousness": 3,
+      "riskProfile": {
+        "minTemp": 22,
+        "maxTemp": 32,
+        "minHumidity": 85,
+        "maxHumidity": null,
+        "hoursForHighRisk": 8
+      }
+    },
+    {
+      "id": "chilli.leaf_curl",
+      "crop": "chilli",
+      "type": "viral",
+      "pathogen": "Chilli leaf curl virus complex (whitefly-transmitted), often with thrips/mite damage",
+      "names": {
+        "en": "Chilli leaf curl",
+        "si": "මිරිස් කොළ කොඩවීම",
+        "ta": "மிளகாய் இலைச்சுருள் நோய்"
+      },
+      "summary": "The most damaging problem of chilli in Sri Lanka, caused by viruses spread by whiteflies together with thrips and mites.",
+      "symptoms": [
+        "Leaves curl upward or downward and become small and thick.",
+        "Shortened internodes giving a bushy appearance.",
+        "Flower drop and very few fruits."
+      ],
+      "favourableConditions": "Hot, dry weather when vector insects multiply.",
+      "organicTreatment": [
+        "Uproot and destroy infected plants early.",
+        "Raise seedlings under insect-proof nets.",
+        "Use yellow and blue sticky traps; spray neem-based products."
+      ],
+      "chemicalTreatment": [
+        "Vector control with insecticides/miticides recommended by the DOA. The virus itself cannot be cured."
+      ],
+      "prevention": [
+        "Grow a border crop such as maize to reduce vector entry.",
+        "Avoid planting near older infected crops.",
+        "Remove weed hosts."
+      ],
+      "modelLabels": [],
+      "contagiousness": 3,
+      "riskProfile": null
+    },
+    {
+      "id": "chilli.anthracnose",
+      "crop": "chilli",
+      "type": "fungal",
+      "pathogen": "Colletotrichum spp.",
+      "names": {
+        "en": "Anthracnose (fruit rot)",
+        "si": "ඇන්ත්‍රැක්නෝස් රෝගය",
+        "ta": "ஆந்த்ராக்னோஸ் நோய்"
+      },
+      "summary": "A fungal fruit rot that causes large post-harvest losses of chilli in humid weather.",
+      "symptoms": [
+        "Sunken, circular, water-soaked spots on ripe fruit.",
+        "Concentric rings of black dots or orange spore masses.",
+        "Die-back of twigs from the tip."
+      ],
+      "favourableConditions": "Warm (20–30 °C) and wet weather near harvest.",
+      "organicTreatment": [
+        "Pick and destroy infected fruit.",
+        "Dry harvested chilli quickly and hygienically."
+      ],
+      "chemicalTreatment": [
+        "A protectant fungicide recommended by the DOA (e.g. mancozeb or chlorothalonil based), following label rates and pre-harvest intervals."
+      ],
+      "prevention": [
+        "Use seed from healthy fruit.",
+        "Rotate crops.",
+        "Avoid fruit injury during harvest."
+      ],
+      "modelLabels": [],
+      "contagiousness": 2,
+      "riskProfile": {
+        "minTemp": 20,
+        "maxTemp": 30,
+        "minHumidity": 90,
+        "maxHumidity": null,
+        "hoursForHighRisk": 12
+      }
+    },
+    {
+      "id": "chilli.healthy",
+      "crop": "chilli",
+      "type": "healthy",
+      "pathogen": "—",
+      "names": {
+        "en": "Healthy chilli",
+        "si": "නිරෝගී මිරිස්",
+        "ta": "ஆரோக்கியமான மிளகாய்"
+      },
+      "summary": "No disease symptoms detected on this chilli leaf.",
+      "symptoms": [
+        "Uniform green colour.",
+        "Flat leaves without curling or spots."
+      ],
+      "favourableConditions": "—",
+      "organicTreatment": [
+        "No treatment needed. Keep monitoring weekly, especially after rain."
+      ],
+      "chemicalTreatment": [],
+      "prevention": [
+        "Scan a few leaves every week to catch problems early.",
+        "Water at the base of the plant in the morning so leaves dry quickly.",
+        "Keep the field free of weeds and crop debris."
+      ],
+      "modelLabels": [
+        "Pepper,_bell___healthy"
+      ],
+      "contagiousness": 0,
+      "riskProfile": null
+    },
+    {
+      "id": "corn.common_rust",
+      "crop": "corn",
+      "type": "fungal",
+      "pathogen": "Puccinia sorghi",
+      "names": {
+        "en": "Common rust",
+        "si": "මලකඩ රෝගය",
+        "ta": "துரு நோய்"
+      },
+      "summary": "Rust fungus producing powdery pustules on maize leaves; severe infections reduce grain fill.",
+      "symptoms": [
+        "Small, oval, cinnamon-brown powdery pustules on both leaf surfaces.",
+        "Pustules turn dark brown to black later in the season.",
+        "Heavily infected leaves dry out."
+      ],
+      "favourableConditions": "Moderate temperatures (16–25 °C) with heavy dew or high humidity.",
+      "organicTreatment": [
+        "Remove heavily infected lower leaves.",
+        "Plant early to escape peak infection."
+      ],
+      "chemicalTreatment": [
+        "A protectant fungicide recommended by the DOA (e.g. mancozeb or chlorothalonil based), following label rates and pre-harvest intervals."
+      ],
+      "prevention": [
+        "Grow tolerant hybrids.",
+        "Avoid very late planting.",
+        "Destroy volunteer maize."
+      ],
+      "modelLabels": [
+        "Corn_(maize)___Common_rust_"
+      ],
+      "contagiousness": 2,
+      "riskProfile": {
+        "minTemp": 16,
+        "maxTemp": 25,
+        "minHumidity": 95,
+        "maxHumidity": null,
+        "hoursForHighRisk": 6
+      }
+    },
+    {
+      "id": "corn.northern_leaf_blight",
+      "crop": "corn",
+      "type": "fungal",
+      "pathogen": "Exserohilum turcicum",
+      "names": {
+        "en": "Northern leaf blight",
+        "si": "උතුරු පත්‍ර අංගමාරය",
+        "ta": "வடக்கு இலைக்கருகல் நோய்"
+      },
+      "summary": "A fungal disease producing long grey-green lesions; early infection can cause major yield loss.",
+      "symptoms": [
+        "Long (2.5–15 cm), cigar-shaped grey-green to tan lesions.",
+        "Lesions start on lower leaves and move up.",
+        "Dark spore masses in lesions during humid weather."
+      ],
+      "favourableConditions": "Moderate temperatures (18–27 °C) with long dew periods.",
+      "organicTreatment": [
+        "Remove infected debris after harvest.",
+        "Ensure balanced fertilisation."
+      ],
+      "chemicalTreatment": [
+        "A protectant fungicide recommended by the DOA (e.g. mancozeb or chlorothalonil based), following label rates and pre-harvest intervals."
+      ],
+      "prevention": [
+        "Use resistant hybrids.",
+        "Rotate with non-cereal crops.",
+        "Plough in residues."
+      ],
+      "modelLabels": [
+        "Corn_(maize)___Northern_Leaf_Blight"
+      ],
+      "contagiousness": 2,
+      "riskProfile": {
+        "minTemp": 18,
+        "maxTemp": 27,
+        "minHumidity": 90,
+        "maxHumidity": null,
+        "hoursForHighRisk": 10
+      }
+    },
+    {
+      "id": "corn.gray_leaf_spot",
+      "crop": "corn",
+      "type": "fungal",
+      "pathogen": "Cercospora zeae-maydis",
+      "names": {
+        "en": "Grey leaf spot",
+        "si": "අළු පත්‍ර පුල්ලි",
+        "ta": "சாம்பல் இலைப்புள்ளி நோய்"
+      },
+      "summary": "A fungal leaf spot favoured by warm, humid weather and maize-on-maize cropping.",
+      "symptoms": [
+        "Narrow, rectangular grey to tan lesions bounded by leaf veins.",
+        "Lesions merge and blight whole leaves.",
+        "Premature leaf death."
+      ],
+      "favourableConditions": "Warm (22–30 °C), very humid weather with long periods of leaf wetness.",
+      "organicTreatment": [
+        "Remove infected residues.",
+        "Improve field drainage and spacing."
+      ],
+      "chemicalTreatment": [
+        "A protectant fungicide recommended by the DOA (e.g. mancozeb or chlorothalonil based), following label rates and pre-harvest intervals."
+      ],
+      "prevention": [
+        "Rotate crops.",
+        "Use tolerant hybrids.",
+        "Avoid continuous maize."
+      ],
+      "modelLabels": [
+        "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot"
+      ],
+      "contagiousness": 2,
+      "riskProfile": {
+        "minTemp": 22,
+        "maxTemp": 30,
+        "minHumidity": 90,
+        "maxHumidity": null,
+        "hoursForHighRisk": 12
+      }
+    },
+    {
+      "id": "corn.fall_armyworm",
+      "crop": "corn",
+      "type": "pest",
+      "pathogen": "Spodoptera frugiperda",
+      "names": {
+        "en": "Fall armyworm",
+        "si": "සේනා දළඹුවා",
+        "ta": "படைப்புழு"
+      },
+      "summary": "An invasive caterpillar pest that has spread across Sri Lanka since 2018 and attacks maize whorls.",
+      "symptoms": [
+        "Ragged holes and 'windowpane' feeding on young leaves.",
+        "Sawdust-like droppings (frass) in the whorl.",
+        "Caterpillars with an inverted 'Y' mark on the head."
+      ],
+      "favourableConditions": "Warm weather throughout the year; outbreaks after dry spells.",
+      "organicTreatment": [
+        "Hand-pick egg masses and larvae.",
+        "Apply sand–lime or wood ash mixture into the whorl.",
+        "Encourage natural enemies."
+      ],
+      "chemicalTreatment": [
+        "An insecticide recommended by the DOA for fall armyworm, applied into the whorl when larvae are small."
+      ],
+      "prevention": [
+        "Plant synchronously with neighbours.",
+        "Scout fields twice a week for the first 6 weeks.",
+        "Use pheromone traps."
+      ],
+      "modelLabels": [],
+      "contagiousness": 3,
+      "riskProfile": null
+    },
+    {
+      "id": "corn.healthy",
+      "crop": "corn",
+      "type": "healthy",
+      "pathogen": "—",
+      "names": {
+        "en": "Healthy maize",
+        "si": "නිරෝගී බඩඉරිඟු",
+        "ta": "ஆரோக்கியமான சோளம்"
+      },
+      "summary": "No disease symptoms detected on this maize leaf.",
+      "symptoms": [
+        "Uniform green colour.",
+        "No lesions, pustules or feeding damage."
+      ],
+      "favourableConditions": "—",
+      "organicTreatment": [
+        "No treatment needed. Keep monitoring weekly, especially after rain."
+      ],
+      "chemicalTreatment": [],
+      "prevention": [
+        "Scan a few leaves every week to catch problems early.",
+        "Water at the base of the plant in the morning so leaves dry quickly.",
+        "Keep the field free of weeds and crop debris."
+      ],
+      "modelLabels": [
+        "Corn_(maize)___healthy"
+      ],
+      "contagiousness": 0,
+      "riskProfile": null
+    },
+    {
+      "id": "rice.blast",
+      "crop": "rice",
+      "type": "fungal",
+      "pathogen": "Pyricularia oryzae (Magnaporthe oryzae)",
+      "names": {
+        "en": "Rice blast",
+        "si": "කොළ පාළුව (බ්ලාස්ට්)",
+        "ta": "குலை நோய்"
+      },
+      "summary": "The most destructive rice disease worldwide; it attacks leaves, nodes and panicle necks.",
+      "symptoms": [
+        "Diamond (spindle) shaped spots with grey centres and brown borders.",
+        "Lesions merge and leaves dry out ('burnt' appearance).",
+        "Neck rot causing white, empty panicles."
+      ],
+      "favourableConditions": "Temperatures of 20–28 °C with long dew periods and high humidity; excess nitrogen increases risk.",
+      "organicTreatment": [
+        "Avoid excessive nitrogen; split fertiliser applications.",
+        "Keep fields flooded where possible.",
+        "Burn or remove infected straw."
+      ],
+      "chemicalTreatment": [
+        "A blast fungicide recommended by the Rice Research and Development Institute (RRDI), applied at early symptoms or booting."
+      ],
+      "prevention": [
+        "Grow resistant varieties recommended for your district.",
+        "Use clean seed paddy.",
+        "Avoid dense sowing."
+      ],
+      "modelLabels": [
+        "Rice___Leaf_Blast"
+      ],
+      "contagiousness": 3,
+      "riskProfile": {
+        "minTemp": 20,
+        "maxTemp": 28,
+        "minHumidity": 90,
+        "maxHumidity": null,
+        "hoursForHighRisk": 10
+      }
+    },
+    {
+      "id": "rice.brown_spot",
+      "crop": "rice",
+      "type": "fungal",
+      "pathogen": "Bipolaris oryzae",
+      "names": {
+        "en": "Brown spot",
+        "si": "දුඹුරු පුල්ලි රෝගය",
+        "ta": "பழுப்புப் புள்ளி நோய்"
+      },
+      "summary": "A fungal disease linked to nutrient-poor soils and water stress; it lowers grain quality.",
+      "symptoms": [
+        "Oval brown spots with grey centres, like sesame seeds.",
+        "Spots on grains turn them dark and discoloured.",
+        "Seedling blight in severe cases."
+      ],
+      "favourableConditions": "Warm (25–30 °C), humid weather on poor or drought-stressed soils.",
+      "organicTreatment": [
+        "Correct soil nutrition, especially potassium and silicon.",
+        "Maintain proper water levels."
+      ],
+      "chemicalTreatment": [
+        "A protectant fungicide recommended by the DOA (e.g. mancozeb or chlorothalonil based), following label rates and pre-harvest intervals."
+      ],
+      "prevention": [
+        "Use healthy, treated seed.",
+        "Apply balanced fertiliser.",
+        "Remove weed hosts."
+      ],
+      "modelLabels": [
+        "Rice___Brown_Spot"
+      ],
+      "contagiousness": 2,
+      "riskProfile": {
+        "minTemp": 25,
+        "maxTemp": 30,
+        "minHumidity": 90,
+        "maxHumidity": null,
+        "hoursForHighRisk": 12
+      }
+    },
+    {
+      "id": "rice.bacterial_leaf_blight",
+      "crop": "rice",
+      "type": "bacterial",
+      "pathogen": "Xanthomonas oryzae pv. oryzae",
+      "names": {
+        "en": "Bacterial leaf blight",
+        "si": "බැක්ටීරියා පත්‍ර අංගමාරය",
+        "ta": "பாக்டீரியா இலைக்கருகல் நோய்"
+      },
+      "summary": "A bacterial disease spread through irrigation water and storms; common after floods.",
+      "symptoms": [
+        "Wavy yellow to white stripes starting from the leaf tips and edges.",
+        "Leaves wilt and roll (kresek) in young plants.",
+        "Milky bacterial ooze on leaves in the morning."
+      ],
+      "favourableConditions": "Warm (25–34 °C), wet and windy weather, especially after flooding.",
+      "organicTreatment": [
+        "Drain the field periodically.",
+        "Avoid excess nitrogen.",
+        "Remove infected stubble and weeds."
+      ],
+      "chemicalTreatment": [
+        "No highly effective chemical control; follow RRDI advice."
+      ],
+      "prevention": [
+        "Grow resistant varieties.",
+        "Avoid clipping seedling tips at transplanting.",
+        "Keep bunds and channels clean."
+      ],
+      "modelLabels": [
+        "Rice___Bacterial_leaf_blight"
+      ],
+      "contagiousness": 3,
+      "riskProfile": {
+        "minTemp": 25,
+        "maxTemp": 34,
+        "minHumidity": 85,
+        "maxHumidity": null,
+        "hoursForHighRisk": 10
+      }
+    },
+    {
+      "id": "rice.healthy",
+      "crop": "rice",
+      "type": "healthy",
+      "pathogen": "—",
+      "names": {
+        "en": "Healthy paddy",
+        "si": "නිරෝගී වී",
+        "ta": "ஆரோக்கியமான நெல்"
+      },
+      "summary": "No disease symptoms detected on this rice leaf.",
+      "symptoms": [
+        "Uniform green colour.",
+        "No spots, stripes or drying tips."
+      ],
+      "favourableConditions": "—",
+      "organicTreatment": [
+        "No treatment needed. Keep monitoring weekly, especially after rain."
+      ],
+      "chemicalTreatment": [],
+      "prevention": [
+        "Scan a few leaves every week to catch problems early.",
+        "Water at the base of the plant in the morning so leaves dry quickly.",
+        "Keep the field free of weeds and crop debris."
+      ],
+      "modelLabels": [
+        "Rice___Healthy"
+      ],
+      "contagiousness": 0,
+      "riskProfile": null
+    },
+    {
+      "id": "general.healthy",
+      "crop": "other",
+      "type": "healthy",
+      "pathogen": "—",
+      "names": {
+        "en": "Looks healthy",
+        "si": "නිරෝගී ලෙස පෙනේ",
+        "ta": "ஆரோக்கியமாகத் தெரிகிறது"
+      },
+      "summary": "Colour analysis found no significant yellowing or dead tissue on this leaf.",
+      "symptoms": [
+        "Mostly uniform green leaf tissue."
+      ],
+      "favourableConditions": "—",
+      "organicTreatment": [
+        "No treatment needed. Keep monitoring weekly, especially after rain."
+      ],
+      "chemicalTreatment": [],
+      "prevention": [
+        "Scan a few leaves every week to catch problems early.",
+        "Water at the base of the plant in the morning so leaves dry quickly.",
+        "Keep the field free of weeds and crop debris."
+      ],
+      "modelLabels": [],
+      "contagiousness": 0,
+      "riskProfile": null
+    },
+    {
+      "id": "general.leaf_spot",
+      "crop": "other",
+      "type": "fungal",
+      "pathogen": "Likely fungal or bacterial leaf spot",
+      "names": {
+        "en": "Leaf spot / blight suspected",
+        "si": "පත්‍ර පුල්ලි / අංගමාරය",
+        "ta": "இலைப்புள்ளி / கருகல் சந்தேகம்"
+      },
+      "summary": "Colour analysis found dead (brown/black) tissue typical of fungal or bacterial leaf spots and blights. Compare with the crop-specific guides in the Library.",
+      "symptoms": [
+        "Brown or black spots or patches on the leaf.",
+        "Possible yellow halo around spots."
+      ],
+      "favourableConditions": "Usually favoured by warm, wet weather and leaf wetness.",
+      "organicTreatment": [
+        "Remove and destroy affected leaves.",
+        "Avoid overhead watering and improve air flow.",
+        "Re-scan in a few days to see if the spots are spreading."
+      ],
+      "chemicalTreatment": [
+        "If spots spread quickly, consult your Agriculture Instructor or the 1920 call centre before spraying."
+      ],
+      "prevention": [
+        "Rotate crops and remove crop debris.",
+        "Keep leaves dry.",
+        "Use disease-free seed and seedlings."
+      ],
+      "modelLabels": [],
+      "contagiousness": 2,
+      "riskProfile": null
+    },
+    {
+      "id": "general.chlorosis",
+      "crop": "other",
+      "type": "nutrient",
+      "pathogen": "Nutrient deficiency, root stress or early viral infection",
+      "names": {
+        "en": "Yellowing (chlorosis)",
+        "si": "කොළ කහ වීම",
+        "ta": "இலை மஞ்சளாதல்"
+      },
+      "summary": "Colour analysis found yellowing leaf tissue. This can be a nutrient deficiency (often nitrogen, magnesium or iron), waterlogging, or an early virus symptom.",
+      "symptoms": [
+        "Pale or yellow areas on the leaf.",
+        "Older leaves yellowing first suggests nitrogen or magnesium shortage."
+      ],
+      "favourableConditions": "Waterlogged or poor soils, long dry spells, or insect vectors.",
+      "organicTreatment": [
+        "Check soil moisture and drainage.",
+        "Apply compost or a balanced fertiliser based on a soil test.",
+        "Look under leaves for whiteflies, aphids or mites."
+      ],
+      "chemicalTreatment": [
+        "Use fertiliser as recommended by the DOA for your crop and soil."
+      ],
+      "prevention": [
+        "Test soil every few seasons.",
+        "Maintain organic matter.",
+        "Monitor for insect vectors."
+      ],
+      "modelLabels": [],
+      "contagiousness": 0,
+      "riskProfile": null
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		31C29C50849353261B8A3B5B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4F784A5F7EB28A8C9C8420A4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8DD74A3DEE6D867F5B6940B9;
+			remoteInfo = KolaCare;
+		};
+		EA8CF05116ABC946B26F410C /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 4F784A5F7EB28A8C9C8420A4 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8DD74A3DEE6D867F5B6940B9;
+			remoteInfo = KolaCare;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		1F6193AD06DCD275BFCA2E0E /* KolaCare.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KolaCare.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D70791BB0E5852E6E7EABE7B /* KolaCareUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KolaCareUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		DE38843F4C48FBF3922155E2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		E7A067B5B7387B85A571BA2E /* KolaCareTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KolaCareTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		5D1B92E76A680479DC1B5841 /* KolaCare */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = KolaCare;
+			sourceTree = "<group>";
+		};
+		9CEFCFAB422089DECAF40271 /* KolaCareTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = KolaCareTests;
+			sourceTree = "<group>";
+		};
+		C37CD978E46609E56D3BF592 /* KolaCareUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = KolaCareUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3E15ABF40157315CBF07DBE5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9418A78781B2F2C44820A3F6 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E925CAAE1A762DE810065AEF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2A5A941371CC9D1DD21C2BC6 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1F6193AD06DCD275BFCA2E0E /* KolaCare.app */,
+				E7A067B5B7387B85A571BA2E /* KolaCareTests.xctest */,
+				D70791BB0E5852E6E7EABE7B /* KolaCareUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4E00277CCB9827CE1F3AD31C = {
+			isa = PBXGroup;
+			children = (
+				5D1B92E76A680479DC1B5841 /* KolaCare */,
+				9CEFCFAB422089DECAF40271 /* KolaCareTests */,
+				C37CD978E46609E56D3BF592 /* KolaCareUITests */,
+				DE38843F4C48FBF3922155E2 /* README.md */,
+				2A5A941371CC9D1DD21C2BC6 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		48B4FD663C14941A73B82393 /* KolaCareTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4AF8E6DDF1F4E770FF4C3633 /* Build configuration list for PBXNativeTarget "KolaCareTests" */;
+			buildPhases = (
+				92B3F65ABC259AA4DA26575F /* Sources */,
+				3E15ABF40157315CBF07DBE5 /* Frameworks */,
+				7BD2364241DAB22B84291F6F /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8F786AD6FF07D47ED0D2BFB2 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				9CEFCFAB422089DECAF40271 /* KolaCareTests */,
+			);
+			name = KolaCareTests;
+			packageProductDependencies = (
+			);
+			productName = KolaCareTests;
+			productReference = E7A067B5B7387B85A571BA2E /* KolaCareTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		6345845999BA6E510A4D9B9A /* KolaCareUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 22D798897F2F1164A6FC0C04 /* Build configuration list for PBXNativeTarget "KolaCareUITests" */;
+			buildPhases = (
+				AE259C5621E2C3467CA6B183 /* Sources */,
+				E925CAAE1A762DE810065AEF /* Frameworks */,
+				0E02948284F62392618499C8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				EE9D3E1C0244AB0AD93C0864 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				C37CD978E46609E56D3BF592 /* KolaCareUITests */,
+			);
+			name = KolaCareUITests;
+			packageProductDependencies = (
+			);
+			productName = KolaCareUITests;
+			productReference = D70791BB0E5852E6E7EABE7B /* KolaCareUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+		8DD74A3DEE6D867F5B6940B9 /* KolaCare */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2426D488F18E360AE23ED078 /* Build configuration list for PBXNativeTarget "KolaCare" */;
+			buildPhases = (
+				DAA6C56A5004C097BB4A118E /* Sources */,
+				9418A78781B2F2C44820A3F6 /* Frameworks */,
+				C5330E2EE28C52BFC3D184B5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				5D1B92E76A680479DC1B5841 /* KolaCare */,
+			);
+			name = KolaCare;
+			packageProductDependencies = (
+			);
+			productName = KolaCare;
+			productReference = 1F6193AD06DCD275BFCA2E0E /* KolaCare.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4F784A5F7EB28A8C9C8420A4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					8DD74A3DEE6D867F5B6940B9 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					48B4FD663C14941A73B82393 = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 8DD74A3DEE6D867F5B6940B9;
+					};
+					6345845999BA6E510A4D9B9A = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 8DD74A3DEE6D867F5B6940B9;
+					};
+				};
+			};
+			buildConfigurationList = 11BEC753036006731DB4C3EF /* Build configuration list for PBXProject "KolaCare" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				si,
+				ta,
+			);
+			mainGroup = 4E00277CCB9827CE1F3AD31C;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 2A5A941371CC9D1DD21C2BC6 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8DD74A3DEE6D867F5B6940B9 /* KolaCare */,
+				48B4FD663C14941A73B82393 /* KolaCareTests */,
+				6345845999BA6E510A4D9B9A /* KolaCareUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		0E02948284F62392618499C8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		7BD2364241DAB22B84291F6F /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C5330E2EE28C52BFC3D184B5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		92B3F65ABC259AA4DA26575F /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		AE259C5621E2C3467CA6B183 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		DAA6C56A5004C097BB4A118E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8F786AD6FF07D47ED0D2BFB2 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8DD74A3DEE6D867F5B6940B9 /* KolaCare */;
+			targetProxy = 31C29C50849353261B8A3B5B /* PBXContainerItemProxy */;
+		};
+		EE9D3E1C0244AB0AD93C0864 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8DD74A3DEE6D867F5B6940B9 /* KolaCare */;
+			targetProxy = EA8CF05116ABC946B26F410C /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		04117AE75B25BB23624A1564 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = "1";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = KolaCare;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
+				INFOPLIST_KEY_NSCameraUsageDescription = "KolaCare uses the camera to photograph leaves so it can diagnose plant diseases on your device.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "KolaCare uses your location to tag plots on the field map and to fetch local weather for disease alerts.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = "17.0";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = "1.0";
+				PRODUCT_BUNDLE_IDENTIFIER = lk.sliit.it23152632.KolaCare;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = "5.0";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		4FAA4FF711051218B9B63292 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = "1";
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = "17.0";
+				MARKETING_VERSION = "1.0";
+				PRODUCT_BUNDLE_IDENTIFIER = lk.sliit.it23152632.KolaCareUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = "5.0";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = KolaCare;
+			};
+			name = Debug;
+		};
+		5607FB8F791AFA2C6DB24C52 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = "1";
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = "17.0";
+				MARKETING_VERSION = "1.0";
+				PRODUCT_BUNDLE_IDENTIFIER = lk.sliit.it23152632.KolaCareUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = "5.0";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = KolaCare;
+			};
+			name = Release;
+		};
+		86263DADC4D9080477FB7306 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = "0";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = "17.0";
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9F04EBA71E5ED54415B9DA27 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = "1";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = KolaCare;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.productivity";
+				INFOPLIST_KEY_NSCameraUsageDescription = "KolaCare uses the camera to photograph leaves so it can diagnose plant diseases on your device.";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "KolaCare uses your location to tag plots on the field map and to fetch local weather for disease alerts.";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = "17.0";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = "1.0";
+				PRODUCT_BUNDLE_IDENTIFIER = lk.sliit.it23152632.KolaCare;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = "5.0";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		A6BE2329EAFE54725C18A2D4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = "1";
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = "17.0";
+				MARKETING_VERSION = "1.0";
+				PRODUCT_BUNDLE_IDENTIFIER = lk.sliit.it23152632.KolaCareTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = "5.0";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KolaCare.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/KolaCare";
+			};
+			name = Release;
+		};
+		B5147C340CA0CEC047502F1B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = "1";
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = "17.0";
+				MARKETING_VERSION = "1.0";
+				PRODUCT_BUNDLE_IDENTIFIER = lk.sliit.it23152632.KolaCareTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = "5.0";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/KolaCare.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/KolaCare";
+			};
+			name = Debug;
+		};
+		BE53AE519FBC478808C7A756 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = "17.0";
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		11BEC753036006731DB4C3EF /* Build configuration list for PBXProject "KolaCare" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				86263DADC4D9080477FB7306 /* Debug */,
+				BE53AE519FBC478808C7A756 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		22D798897F2F1164A6FC0C04 /* Build configuration list for PBXNativeTarget "KolaCareUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4FAA4FF711051218B9B63292 /* Debug */,
+				5607FB8F791AFA2C6DB24C52 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2426D488F18E360AE23ED078 /* Build configuration list for PBXNativeTarget "KolaCare" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9F04EBA71E5ED54415B9DA27 /* Debug */,
+				04117AE75B25BB23624A1564 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4AF8E6DDF1F4E770FF4C3633 /* Build configuration list for PBXNativeTarget "KolaCareTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B5147C340CA0CEC047502F1B /* Debug */,
+				A6BE2329EAFE54725C18A2D4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4F784A5F7EB28A8C9C8420A4 /* Project object */;
+}

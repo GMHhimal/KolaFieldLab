@@ -1,0 +1,2742 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "%lld plants · %lld scans": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පැළ %lld · පරීක්ෂා %lld"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld செடிகள் · %lld ஸ்கேன்கள்"
+          }
+        }
+      }
+    },
+    "About": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පිළිබඳව"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "பற்றி"
+          }
+        }
+      }
+    },
+    "About KolaCare": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "KolaCare පිළිබඳව"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "KolaCare பற்றி"
+          }
+        }
+      }
+    },
+    "Add a plant": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පැළයක් එක් කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "செடியைச் சேர்"
+          }
+        }
+      }
+    },
+    "Add photo": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ඡායාරූපයක් එක් කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "புகைப்படம் சேர்"
+          }
+        }
+      }
+    },
+    "Add plant": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පැළයක් එක් කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "செடியைச் சேர்"
+          }
+        }
+      }
+    },
+    "All": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සියල්ල"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "அனைத்தும்"
+          }
+        }
+      }
+    },
+    "All crops": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සියලු බෝග"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "அனைத்துப் பயிர்கள்"
+          }
+        }
+      }
+    },
+    "All types": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සියලු වර්ග"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "அனைத்து வகைகள்"
+          }
+        }
+      }
+    },
+    "Analysing leaf": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "කොළය විශ්ලේෂණය කරමින්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "இலையை பகுப்பாய்வு செய்கிறது"
+          }
+        }
+      }
+    },
+    "Appearance": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පෙනුම"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "தோற்றம்"
+          }
+        }
+      }
+    },
+    "Bacterial": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "බැක්ටීරියා"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "பாக்டீரியா"
+          }
+        }
+      }
+    },
+    "Call 1920": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1920 අමතන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "1920 ஐ அழைக்கவும்"
+          }
+        }
+      }
+    },
+    "Cancel": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "අවලංගු කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ரத்து"
+          }
+        }
+      }
+    },
+    "Change photo": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ඡායාරූපය වෙනස් කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "புகைப்படத்தை மாற்று"
+          }
+        }
+      }
+    },
+    "Chemical": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "රසායනික"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ரசாயனம்"
+          }
+        }
+      }
+    },
+    "Chilli": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "මිරිස්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மிளகாய்"
+          }
+        }
+      }
+    },
+    "Choose a plant": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පැළයක් තෝරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "செடியைத் தேர்ந்தெடு"
+          }
+        }
+      }
+    },
+    "Cinnamon": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "කුරුඳු"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "இலவங்கப்பட்டை"
+          }
+        }
+      }
+    },
+    "Clear sky": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පැහැදිලි අහස"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "தெளிவான வானம்"
+          }
+        }
+      }
+    },
+    "Cloudy": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "වලාකුළු සහිත"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மேகமூட்டம்"
+          }
+        }
+      }
+    },
+    "Colour theme": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "වර්ණ තේමාව"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "வண்ணக் கருப்பொருள்"
+          }
+        }
+      }
+    },
+    "Confidence": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "විශ්වාසය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நம்பகத்தன்மை"
+          }
+        }
+      }
+    },
+    "CoreML disease model": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CoreML රෝග ආකෘතිය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CoreML நோய் மாதிரி"
+          }
+        }
+      }
+    },
+    "Couldn't analyse the photo": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ඡායාරූපය විශ්ලේෂණය කළ නොහැකි විය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "புகைப்படத்தை பகுப்பாய்வு செய்ய முடியவில்லை"
+          }
+        }
+      }
+    },
+    "Credits": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ස්තුතිය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நன்றி"
+          }
+        }
+      }
+    },
+    "Crop": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "බෝගය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "பயிர்"
+          }
+        }
+      }
+    },
+    "Dark": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "අඳුරු"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "இருள்"
+          }
+        }
+      }
+    },
+    "Data": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "දත්ත"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "தரவு"
+          }
+        }
+      }
+    },
+    "Data sources": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "දත්ත මූලාශ්‍ර"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "தரவு மூலங்கள்"
+          }
+        }
+      }
+    },
+    "Dead tissue": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "මැරුණු පටක"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "இறந்த திசு"
+          }
+        }
+      }
+    },
+    "Delete": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "මකන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நீக்கு"
+          }
+        }
+      }
+    },
+    "Delete scan": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පරීක්ෂාව මකන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஸ்கேனை நீக்கு"
+          }
+        }
+      }
+    },
+    "Demo garden": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ආදර්ශ වත්ත"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மாதிரி தோட்டம்"
+          }
+        }
+      }
+    },
+    "Diagnose in seconds": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "තත්පර කිහිපයකින් රෝග හඳුනාගන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சில நொடிகளில் நோயறிதல்"
+          }
+        }
+      }
+    },
+    "Diagnosis": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "රෝග විනිශ්චය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நோயறிதல்"
+          }
+        }
+      }
+    },
+    "Disease library": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "රෝග පුස්තකාලය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நோய் நூலகம்"
+          }
+        }
+      }
+    },
+    "Disease risk · next 48 h": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "රෝග අවදානම · ඉදිරි පැය 48"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நோய் அபாயம் · அடுத்த 48 மணி"
+          }
+        }
+      }
+    },
+    "Done": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "අවසන්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "முடிந்தது"
+          }
+        }
+      }
+    },
+    "Drizzle": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පොද වැසි"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "தூறல்"
+          }
+        }
+      }
+    },
+    "Edit": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සංස්කරණය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "திருத்து"
+          }
+        }
+      }
+    },
+    "Edit plant": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පැළය සංස්කරණය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "செடியைத் திருத்து"
+          }
+        }
+      }
+    },
+    "Erase all data": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සියලු දත්ත මකන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "எல்லாத் தரவையும் அழி"
+          }
+        }
+      }
+    },
+    "Export scans as CSV": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CSV ලෙස අපනයනය කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "CSV ஆக ஏற்றுமதி செய்"
+          }
+        }
+      }
+    },
+    "Favourable conditions": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "හිතකර තත්ත්ව"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சாதகமான சூழ்நிலைகள்"
+          }
+        }
+      }
+    },
+    "Field map": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ක්ෂේත්‍ර සිතියම"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "வயல் வரைபடம்"
+          }
+        }
+      }
+    },
+    "Fog": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "මීදුම"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மூடுபனி"
+          }
+        }
+      }
+    },
+    "Follow-up": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පසු විපරම"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "பின்தொடர்தல்"
+          }
+        }
+      }
+    },
+    "For the best result": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "හොඳම ප්‍රතිඵලය සඳහා"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சிறந்த முடிவுக்கு"
+          }
+        }
+      }
+    },
+    "Full treatment guide": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සම්පූර්ණ ප්‍රතිකාර මාර්ගෝපදේශය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "முழு சிகிச்சை வழிகாட்டி"
+          }
+        }
+      }
+    },
+    "Fungal": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "දිලීර"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "பூஞ்சை"
+          }
+        }
+      }
+    },
+    "Garden": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "වත්ත"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "தோட்டம்"
+          }
+        }
+      }
+    },
+    "Garden health": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "වත්තේ සෞඛ්‍යය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "தோட்ட ஆரோக்கியம்"
+          }
+        }
+      }
+    },
+    "Get started": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ආරම්භ කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "தொடங்குங்கள்"
+          }
+        }
+      }
+    },
+    "Good afternoon": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සුභ දහවලක්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மதிய வணக்கம்"
+          }
+        }
+      }
+    },
+    "Good evening": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සුභ සන්ධ්‍යාවක්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மாலை வணக்கம்"
+          }
+        }
+      }
+    },
+    "Good morning": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සුභ උදෑසනක්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "காலை வணக்கம்"
+          }
+        }
+      }
+    },
+    "Health score": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සෞඛ්‍ය ලකුණු"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஆரோக்கிய மதிப்பெண்"
+          }
+        }
+      }
+    },
+    "Health trend": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සෞඛ්‍ය ප්‍රවණතාව"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஆரோக்கியப் போக்கு"
+          }
+        }
+      }
+    },
+    "Healthy": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "නිරෝගී"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஆரோக்கியமானது"
+          }
+        }
+      }
+    },
+    "Healthy leaf": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "නිරෝගී කොළය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஆரோக்கியமான இலை"
+          }
+        }
+      }
+    },
+    "High": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ඉහළ"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "அதிகம்"
+          }
+        }
+      }
+    },
+    "Home": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "මුල් පිටුව"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "முகப்பு"
+          }
+        }
+      }
+    },
+    "Humidity": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ආර්ද්‍රතාවය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஈரப்பதம்"
+          }
+        }
+      }
+    },
+    "Isolating the leaf…": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "කොළය වෙන් කරමින්…"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "இலையைப் பிரிக்கிறது…"
+          }
+        }
+      }
+    },
+    "Keep it healthy": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "නිරෝගීව තබාගන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஆரோக்கியமாக வைத்திருங்கள்"
+          }
+        }
+      }
+    },
+    "Last scan": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "අවසන් පරීක්ෂාව"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "கடைசி ஸ்கேன்"
+          }
+        }
+      }
+    },
+    "Leaf area affected": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "බලපෑමට ලක් වූ කොළ ප්‍රමාණය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "பாதிக்கப்பட்ட இலைப் பரப்பு"
+          }
+        }
+      }
+    },
+    "Leaf in frame": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "රාමුවේ කොළය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சட்டத்தில் இலை"
+          }
+        }
+      }
+    },
+    "Leaf-wet hours": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "කොළ තෙත් පැය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "இலை ஈர மணிநேரம்"
+          }
+        }
+      }
+    },
+    "Library": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පුස්තකාලය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நூலகம்"
+          }
+        }
+      }
+    },
+    "Light": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ආලෝකමත්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஒளி"
+          }
+        }
+      }
+    },
+    "Load demo garden": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ආදර්ශ වත්ත පූරණය කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மாதிரி தோட்டத்தை ஏற்று"
+          }
+        }
+      }
+    },
+    "Location": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ස්ථානය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "இருப்பிடம்"
+          }
+        }
+      }
+    },
+    "Look & feel": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පෙනුම සහ හැඟීම"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "தோற்றமும் உணர்வும்"
+          }
+        }
+      }
+    },
+    "Low": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "අඩු"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "குறைவு"
+          }
+        }
+      }
+    },
+    "Maize": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "බඩඉරිඟු"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சோளம்"
+          }
+        }
+      }
+    },
+    "Map": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සිතියම"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "வரைபடம்"
+          }
+        }
+      }
+    },
+    "Matching disease patterns…": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "රෝග රටා ගළපමින්…"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நோய் வடிவங்களைப் பொருத்துகிறது…"
+          }
+        }
+      }
+    },
+    "Measuring yellow and dead tissue…": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "කහ සහ මැරුණු පටක මනිමින්…"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மஞ்சள் மற்றும் இறந்த திசுவை அளவிடுகிறது…"
+          }
+        }
+      }
+    },
+    "Mission": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "මෙහෙවර"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நோக்கம்"
+          }
+        }
+      }
+    },
+    "Moderate": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "මධ්‍යම"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மிதமானது"
+          }
+        }
+      }
+    },
+    "My garden": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "මගේ වත්ත"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "என் தோட்டம்"
+          }
+        }
+      }
+    },
+    "Name": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "නම"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "பெயர்"
+          }
+        }
+      }
+    },
+    "Need expert help?": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "විශේෂඥ උපදෙස් අවශ්‍යද?"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நிபுணர் உதவி தேவையா?"
+          }
+        }
+      }
+    },
+    "Needs attention": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "අවධානය අවශ්‍යයි"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "கவனம் தேவை"
+          }
+        }
+      }
+    },
+    "Needs attention first": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "අවධානය අවශ්‍ය ඒවා මුලින්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "கவனம் தேவையானவை முதலில்"
+          }
+        }
+      }
+    },
+    "New plant": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "නව පැළයක්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "புதிய செடி"
+          }
+        }
+      }
+    },
+    "Next": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ඊළඟ"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "அடுத்து"
+          }
+        }
+      }
+    },
+    "Not installed": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ස්ථාපනය කර නැත"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நிறுவப்படவில்லை"
+          }
+        }
+      }
+    },
+    "Not scanned yet": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "තවම පරීක්ෂා කර නැත"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "இன்னும் ஸ்கேன் செய்யப்படவில்லை"
+          }
+        }
+      }
+    },
+    "Notes": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සටහන්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "குறிப்புகள்"
+          }
+        }
+      }
+    },
+    "Nutrient / stress": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පෝෂක / ආතතිය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஊட்டச்சத்து / அழுத்தம்"
+          }
+        }
+      }
+    },
+    "OK": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "හරි"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சரி"
+          }
+        }
+      }
+    },
+    "On-device AI": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "උපාංගය මත AI"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சாதனத்தில் AI"
+          }
+        }
+      }
+    },
+    "On-device colour analysis": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "උපාංගය මත වර්ණ විශ්ලේෂණය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சாதனத்திலேயே நிறப் பகுப்பாய்வு"
+          }
+        }
+      }
+    },
+    "Open": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "විවෘත කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "திற"
+          }
+        }
+      }
+    },
+    "Organic & cultural": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "කාබනික සහ වගා ක්‍රම"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "இயற்கை மற்றும் சாகுபடி முறை"
+          }
+        }
+      }
+    },
+    "Other": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "වෙනත්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மற்றவை"
+          }
+        }
+      }
+    },
+    "Other possibilities": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "වෙනත් හැකියාවන්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "பிற சாத்தியங்கள்"
+          }
+        }
+      }
+    },
+    "Overcast": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "වලාකුළින් බර"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மேகமூட்டம்"
+          }
+        }
+      }
+    },
+    "Paddy": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "වී"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நெல்"
+          }
+        }
+      }
+    },
+    "Paddy green": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "කුඹුරු කොළ"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நெல் பச்சை"
+          }
+        }
+      }
+    },
+    "Partly cloudy": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "අර්ධ වශයෙන් වලාකුළු"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஓரளவு மேகமூட்டம்"
+          }
+        }
+      }
+    },
+    "Pest": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පළිබෝධ"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "பூச்சி"
+          }
+        }
+      }
+    },
+    "Photo": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ඡායාරූපය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "புகைப்படம்"
+          }
+        }
+      }
+    },
+    "Photo library": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ඡායාරූප එකතුව"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "புகைப்பட நூலகம்"
+          }
+        }
+      }
+    },
+    "Place one leaf inside the frame": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "එක් කොළයක් රාමුව තුළ තබන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஒரு இலையை சட்டத்திற்குள் வையுங்கள்"
+          }
+        }
+      }
+    },
+    "Plant": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පැළය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "செடி"
+          }
+        }
+      }
+    },
+    "Potato": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "අර්තාපල්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "உருளைக்கிழங்கு"
+          }
+        }
+      }
+    },
+    "Prevention": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "වැළැක්වීම"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "தடுப்பு"
+          }
+        }
+      }
+    },
+    "Rain": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "වැසි"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மழை"
+          }
+        }
+      }
+    },
+    "Re-scan a leaf to see whether the treatment is working.": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ප්‍රතිකාරය සාර්ථකද බැලීමට කොළයක් නැවත පරීක්ෂා කරන්න."
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சிகிச்சை பலனளிக்கிறதா என்று பார்க்க இலையை மீண்டும் ஸ்கேன் செய்யுங்கள்."
+          }
+        }
+      }
+    },
+    "Recent scans": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "මෑත පරීක්ෂා කිරීම්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சமீபத்திய ஸ்கேன்கள்"
+          }
+        }
+      }
+    },
+    "Recently added": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "මෑතදී එකතු කළ"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சமீபத்தில் சேர்த்தவை"
+          }
+        }
+      }
+    },
+    "Remind me to re-scan in %lld days": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "දින %lld කින් නැවත පරීක්ෂා කිරීමට මතක් කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%lld நாட்களில் மீண்டும் ஸ்கேன் செய்ய நினைவூட்டு"
+          }
+        }
+      }
+    },
+    "Satellite": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "චන්ද්‍රිකා"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "செயற்கைக்கோள்"
+          }
+        }
+      }
+    },
+    "Save": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සුරකින්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சேமி"
+          }
+        }
+      }
+    },
+    "Save diagnosis": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "විනිශ්චය සුරකින්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நோயறிதலைச் சேமி"
+          }
+        }
+      }
+    },
+    "Save to garden": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "වත්තට සුරකින්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "தோட்டத்தில் சேமி"
+          }
+        }
+      }
+    },
+    "Saved to your garden": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ඔබේ වත්තට සුරැකිණි"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "உங்கள் தோட்டத்தில் சேமிக்கப்பட்டது"
+          }
+        }
+      }
+    },
+    "Scan": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පරීක්ෂා කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஸ்கேன்"
+          }
+        }
+      }
+    },
+    "Scan a leaf": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "කොළයක් පරීක්ෂා කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "இலையை ஸ்கேன் செய்யுங்கள்"
+          }
+        }
+      }
+    },
+    "Scan activity": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පරීක්ෂා කිරීම්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஸ்கேன் செயல்பாடு"
+          }
+        }
+      }
+    },
+    "Scan another": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "තවත් එකක් පරීක්ෂා කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "இன்னொன்றை ஸ்கேன் செய்"
+          }
+        }
+      }
+    },
+    "Scan history": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පරීක්ෂා ඉතිහාසය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஸ்கேன் வரலாறு"
+          }
+        }
+      }
+    },
+    "Scan this plant": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "මෙම පැළය පරීක්ෂා කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "இந்தச் செடியை ஸ்கேன் செய்"
+          }
+        }
+      }
+    },
+    "Scanning for %@": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ සඳහා පරීක්ෂා කරමින්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ க்காக ஸ்கேன்"
+          }
+        }
+      }
+    },
+    "Scans": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පරීක්ෂා කිරීම්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஸ்கேன்கள்"
+          }
+        }
+      }
+    },
+    "Search plants or plots": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පැළ හෝ බිම් සොයන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "செடிகள் அல்லது நிலங்களைத் தேடு"
+          }
+        }
+      }
+    },
+    "Settings": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සැකසුම්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "அமைப்புகள்"
+          }
+        }
+      }
+    },
+    "Severe": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "දරුණු"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "கடுமையானது"
+          }
+        }
+      }
+    },
+    "Show all %lld": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සියල්ල පෙන්වන්න (%lld)"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "அனைத்தையும் காட்டு (%lld)"
+          }
+        }
+      }
+    },
+    "Show all plants": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සියලු පැළ පෙන්වන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "எல்லாச் செடிகளையும் காட்டு"
+          }
+        }
+      }
+    },
+    "Show lesion map": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "තුවාල සිතියම පෙන්වන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "புண் வரைபடத்தைக் காட்டு"
+          }
+        }
+      }
+    },
+    "Show less": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "අඩුවෙන් පෙන්වන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "குறைவாகக் காட்டு"
+          }
+        }
+      }
+    },
+    "Show onboarding again": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "හැඳින්වීම නැවත පෙන්වන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "அறிமுகத்தை மீண்டும் காட்டு"
+          }
+        }
+      }
+    },
+    "Skip": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "මඟහරින්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "தவிர்"
+          }
+        }
+      }
+    },
+    "Sort by": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "අනුපිළිවෙළ"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "வரிசைப்படுத்து"
+          }
+        }
+      }
+    },
+    "Spotted leaf": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පුල්ලි සහිත කොළය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "புள்ளியுள்ள இலை"
+          }
+        }
+      }
+    },
+    "Spread": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පැතිරීම"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "பரவல்"
+          }
+        }
+      }
+    },
+    "Spread zones": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පැතිරීමේ කලාප"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "பரவல் மண்டலங்கள்"
+          }
+        }
+      }
+    },
+    "Stay ahead of the weather": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "කාලගුණයට පෙර සූදානම් වන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "வானிலைக்கு முன்னால் இருங்கள்"
+          }
+        }
+      }
+    },
+    "Symptoms": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "රෝග ලක්ෂණ"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "அறிகுறிகள்"
+          }
+        }
+      }
+    },
+    "System": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පද්ධතිය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "கணினி"
+          }
+        }
+      }
+    },
+    "Take photo": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ඡායාරූපයක් ගන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "புகைப்படம் எடு"
+          }
+        }
+      }
+    },
+    "Tea estate": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "තේ වත්ත"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "தேயிலைத் தோட்டம்"
+          }
+        }
+      }
+    },
+    "Temperature": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "උෂ්ණත්වය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "வெப்பநிலை"
+          }
+        }
+      }
+    },
+    "Thunderstorm": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ගිගුරුම් සහිත වැසි"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "இடியுடன் மழை"
+          }
+        }
+      }
+    },
+    "Time to check %@": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ පරීක්ෂා කිරීමට කාලයයි"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "%@ ஐச் சரிபார்க்கும் நேரம்"
+          }
+        }
+      }
+    },
+    "Tomato": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "තක්කාලි"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "தக்காளி"
+          }
+        }
+      }
+    },
+    "Treat and track": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ප්‍රතිකාර කර අධීක්ෂණය කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சிகிச்சை செய்து கண்காணியுங்கள்"
+          }
+        }
+      }
+    },
+    "Treatment": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ප්‍රතිකාර"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சிகிச்சை"
+          }
+        }
+      }
+    },
+    "Treatment done": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ප්‍රතිකාර නිම"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சிகிச்சை முடிந்தது"
+          }
+        }
+      }
+    },
+    "Treatment plan": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ප්‍රතිකාර සැලැස්ම"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சிகிச்சைத் திட்டம்"
+          }
+        }
+      }
+    },
+    "Treatment progress": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ප්‍රතිකාර ප්‍රගතිය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "சிகிச்சை முன்னேற்றம்"
+          }
+        }
+      }
+    },
+    "Try a sample": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "නියැදියක් උත්සාහ කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மாதிரியை முயற்சி"
+          }
+        }
+      }
+    },
+    "Try again": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "නැවත උත්සාහ කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மீண்டும் முயற்சிக்கவும்"
+          }
+        }
+      }
+    },
+    "Use my location": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "මගේ ස්ථානය භාවිතා කරන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "என் இருப்பிடத்தைப் பயன்படுத்து"
+          }
+        }
+      }
+    },
+    "View plant": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "පැළය බලන්න"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "செடியைப் பார்"
+          }
+        }
+      }
+    },
+    "Viral": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "වෛරස"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "வைரஸ்"
+          }
+        }
+      }
+    },
+    "Water mould": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ජල පුස්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நீர்ப் பூஞ்சணம்"
+          }
+        }
+      }
+    },
+    "Weather alerts for": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "කාලගුණ අනතුරු ඇඟවීම්"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "வானிலை எச்சரிக்கைகள்"
+          }
+        }
+      }
+    },
+    "Weather unavailable": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "කාලගුණ දත්ත නොමැත"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "வானிலை கிடைக்கவில்லை"
+          }
+        }
+      }
+    },
+    "What do you grow?": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ඔබ වගා කරන්නේ මොනවාද?"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "நீங்கள் என்ன பயிரிடுகிறீர்கள்?"
+          }
+        }
+      }
+    },
+    "What to do now": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "දැන් කළ යුත්තේ"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "இப்போது என்ன செய்வது"
+          }
+        }
+      }
+    },
+    "Yellowing": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "කහ වීම"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மஞ்சளாதல்"
+          }
+        }
+      }
+    },
+    "Yellowing leaf": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "කහ වූ කොළය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "மஞ்சளான இலை"
+          }
+        }
+      }
+    },
+    "Your AI leaf doctor": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ඔබේ AI කොළ වෛද්‍යවරයා"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "உங்கள் AI இலை மருத்துவர்"
+          }
+        }
+      }
+    },
+    "Your garden is empty": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ඔබේ වත්ත හිස්ය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "உங்கள் தோட்டம் காலியாக உள்ளது"
+          }
+        }
+      }
+    },
+    "health": {
+      "localizations": {
+        "si": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "සෞඛ්‍යය"
+          }
+        },
+        "ta": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ஆரோக்கியம்"
+          }
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}
